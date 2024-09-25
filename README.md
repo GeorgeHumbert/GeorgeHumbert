@@ -1,4 +1,5 @@
-### Hi there 👋
+### ¡Hola! Soy Jorge Rubalcava 👋 , especialista en SEO, IA, y desarrollo web con WordPress, en camino a convertirme en IA Software Engineer. 
+Me dedico a la creación de sitios web personalizados, optimización SEO para blogs y landing pages, y aplico Inteligencia Artificial para mejorar el rendimiento digital. Además, estoy desarrollando mis habilidades como ingeniero de software especializado en IA y análisis de datos. A través de mi blog, comparto conocimientos sobre SEO, IA, y desarrollo web, ayudando a otros a maximizar su impacto en línea.
 
 <!--
 **GeorgeHumbert/GeorgeHumbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
