@@ -11,7 +11,7 @@
 - **Prompting Engineering**
 
 **Proyectos Destacados:**
-- **[Proyecto de Regresión ML para Predicción de Precios de Casas](https://github.com/GeorgeHumbert/Regresion-ML-tradicional):** técnicas de Machine Learning para predecir los precios medianos de casas utilizando un modelo entrenado.
+- **[Proyecto de Regresión ML para Predicción de Precios de Casas](https://github.com/GeorgeHumbert/Regresion-ML-tradicional):** Uso de técnicas de Machine Learning para predecir los precios medianos de casas utilizando un modelo entrenado.
 - **[Predicción del Número de Pasajeros en Aerolíneas con una Red LSTM](https://github.com/GeorgeHumbert/Regresion-DL-tradicional):** Uso de una red LSTM (Long Short-Term Memory) para predecir el número de pasajeros mensuales en aerolíneas utilizando una serie temporal
 
 **Visita mi blog** para aprender cómo posicionar tu marca e implementar soluciones tecnológicas innovadoras. **¡Maximiza tu impacto en línea** con estrategias avanzadas de SEO e IA!
