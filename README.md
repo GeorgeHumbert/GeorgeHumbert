@@ -1,17 +1,17 @@
-### ¡Hola! Soy Jorge Rubalcava 👋 , especialista en SEO, IA, y desarrollo web con WordPress, en camino a convertirme en IA Software Engineer. 
-Me dedico a la creación de sitios web personalizados, optimización SEO para blogs y landing pages, y aplico Inteligencia Artificial para mejorar el rendimiento digital. Además, estoy desarrollando mis habilidades como ingeniero de software especializado en IA y análisis de datos. A través de mi blog, comparto conocimientos sobre SEO, IA, y desarrollo web, ayudando a otros a maximizar su impacto en línea.
+### Ingeniero de Software Especializado en Ciencia de Datos, IA y SEO
 
-<!--
-**GeorgeHumbert/GeorgeHumbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Transformo tus ideas en soluciones digitales personalizadas** y optimizo SEO para blogs y landing pages. Además, aplico Inteligencia Artificial y técnicas avanzadas de Ciencia de Datos para mejorar el rendimiento digital. Estoy desarrollando mis habilidades como ingeniero de software especializado en IA, análisis de datos, Machine Learning, Deep Learning, Data Engineering y MLOps. A través de mi blog, comparto conocimientos sobre SEO, IA, Ciencia de Datos, Visualización de Datos, Cloud Computing, Business Intelligence y tecnologías de Big Data como Hadoop y Spark, ayudando a otros a maximizar su impacto en línea y a implementar soluciones tecnológicas innovadoras.
 
-Here are some ideas to get you started:
+🔧 **Habilidades Técnicas:**
+- **Lenguajes de Programación:** Python, R, JavaScript
+- **Frameworks y Librerías:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+- **Herramientas de Visualización:** Tableau, Power BI, Matplotlib, Seaborn
+- **Desarrollo Web:** HTML, CSS, JavaScript, React, Node.js
+- **SEO:** Optimización on-page y off-page, análisis de palabras clave, herramientas SEO (Yoast, Rank Math)
+- **MLOps:** Docker, Kubernetes, MLflow
+- **Cloud Computing:** AWS, Google Cloud Platform, Azure
+- **Big Data:** Hadoop, Spark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Blog:** [TuBlog.com](https://jorgehumbertorm.com/)    
+🔗 **GitHub:** [github.com/tuusuario](https://github.com/GeorgeHumbert/)  
+🔗 **LinkedIn:** [linkedin.com/in/tuusuario]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/jorge-humberto-rubalcava-moreno-977a3b1bb/?originalSubdomain=mx))
