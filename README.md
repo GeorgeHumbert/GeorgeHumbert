@@ -16,5 +16,5 @@
 
 **Visita mi blog** para aprender cómo posicionar tu marca e implementar soluciones tecnológicas innovadoras. **¡Maximiza tu impacto en línea** con estrategias avanzadas de SEO e IA!
 
- 🌐 **Blog:** [jorgehumbertorm.com]([https://tublog.com](https://jorgehumbertorm.com/))   
-🔗 **LinkedIn:** [Jorge Rubalcava]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/jorge-humberto-rubalcava-moreno-977a3b1bb/?originalSubdomain=mx))
+ 🌐 **Blog:** [jorgehumbertorm.com](https://jorgehumbertorm.com/)   
+🔗 **LinkedIn:** [Jorge Rubalcava](https://www.linkedin.com/in/jorge-humberto-rubalcava-moreno-977a3b1bb/?originalSubdomain=mx)
