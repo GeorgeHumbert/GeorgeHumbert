@@ -1,17 +1,20 @@
-### Ingeniero de Software Especializado en Ciencia de Datos, IA y SEO
+### Data Science Engineer con Enfoque en IA y SEO
 
-**Transformo tus ideas en soluciones digitales personalizadas** y optimizo SEO para blogs y landing pages. Además, aplico Inteligencia Artificial y técnicas avanzadas de Ciencia de Datos para mejorar el rendimiento digital. Estoy desarrollando mis habilidades como ingeniero de software especializado en IA, análisis de datos, Machine Learning, Deep Learning, Data Engineering y MLOps. A través de mi blog, comparto conocimientos sobre SEO, IA, Ciencia de Datos, Visualización de Datos, Cloud Computing, Business Intelligence y tecnologías de Big Data como Hadoop y Spark, ayudando a otros a maximizar su impacto en línea y a implementar soluciones tecnológicas innovadoras.
+**Transformo tus ideas en soluciones digitales** mediante la creación de blogs para marcas personales o de negocios, optimización SEO y la aplicación de Inteligencia Artificial y Ciencia de Datos para potenciar tu presencia online. 
 
-🔧 **Habilidades Técnicas:**
-- **Lenguajes de Programación:** Python, R, JavaScript
-- **Frameworks y Librerías:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
-- **Herramientas de Visualización:** Tableau, Power BI, Matplotlib, Seaborn
-- **Desarrollo Web:** HTML, CSS, JavaScript, React, Node.js
-- **SEO:** Optimización on-page y off-page, análisis de palabras clave, herramientas SEO (Yoast, Rank Math)
-- **MLOps:** Docker, Kubernetes, MLflow
-- **Cloud Computing:** AWS, Google Cloud Platform, Azure
-- **Big Data:** Hadoop, Spark
+**Especializado en:**
+- **SEO Avanzado**
+- **Inteligencia Artificial y Machine Learning**
+- **Ciencia de Datos y Análisis Predictivo**
+- **Visualización de Datos**
+- **Cloud Computing y MLOps**
+- **Prompting Engineering**
 
-🌐 **Blog:** [TuBlog.com](https://jorgehumbertorm.com/)    
-🔗 **GitHub:** [github.com/tuusuario](https://github.com/GeorgeHumbert/)  
-🔗 **LinkedIn:** [linkedin.com/in/tuusuario]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/jorge-humberto-rubalcava-moreno-977a3b1bb/?originalSubdomain=mx))
+**Proyectos Destacados:**
+- **[Proyecto de Regresión ML para Predicción de Precios de Casas](https://github.com/GeorgeHumbert/Regresion-ML-tradicional):** técnicas de Machine Learning para predecir los precios medianos de casas utilizando un modelo entrenado.
+- **[Predicción del Número de Pasajeros en Aerolíneas con una Red LSTM](https://github.com/GeorgeHumbert/Regresion-DL-tradicional):** Uso de una red LSTM (Long Short-Term Memory) para predecir el número de pasajeros mensuales en aerolíneas utilizando una serie temporal
+
+**Visita mi blog** para aprender cómo posicionar tu marca e implementar soluciones tecnológicas innovadoras. **¡Maximiza tu impacto en línea** con estrategias avanzadas de SEO e IA!
+
+ 🌐 **Blog:** [jorgehumbertorm.com]([https://tublog.com](https://jorgehumbertorm.com/))   
+🔗 **LinkedIn:** [Jorge Rubalcava]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/jorge-humberto-rubalcava-moreno-977a3b1bb/?originalSubdomain=mx))
