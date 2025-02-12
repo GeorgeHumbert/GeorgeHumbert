@@ -22,5 +22,5 @@ This approach allows me to offer more effective and adaptable solutions, ensurin
 
 **Visit my blog** and learn how to protect your digital world: learn best practices and advanced strategies in cybersecurity to keep your information safe.
 
- 🌐 **Blog:** **Work in Progress**  
+ 🌐 **Blog:** [Hack with George]([https://www.linkedin.com/in/jorge-humberto-rubalcava-moreno-977a3b1bb/?originalSubdomain=mx](https://hackwithgeorge.com/)) 
 🔗 **LinkedIn:** [Jorge Rubalcava](https://www.linkedin.com/in/jorge-humberto-rubalcava-moreno-977a3b1bb/?originalSubdomain=mx)
