@@ -1,4 +1,5 @@
 Hi there! 👋 I'm George
+
 DevSecOps Engineer | Red Team Specialist | Creator of hackwithgeorge.com
 
 I specialize in bridging the gap between offensive security and robust cloud infrastructure. By combining my background in Red Teaming with extensive experience in SOC operations, automation, and cloud observability, I design highly resilient systems capable of withstanding modern digital threats. I believe the best way to defend a system is to understand exactly how it can be broken.
@@ -20,7 +21,7 @@ I specialize in bridging the gap between offensive security and robust cloud inf
 
 **Visit my blog** and learn how to protect your digital world: learn best practices and advanced strategies in cybersecurity to keep your information safe.
 
-🌐 Read my latest articles: [[Hack with George](https://hackwithgeorge.com/)]
+🌐 Read my latest articles: [Hack with George](https://hackwithgeorge.com/)
 💼 Connect with me on LinkedIn: [Jorge Rubalcava](https://www.linkedin.com/in/jorge-humberto-rubalcava-moreno-977a3b1bb/?originalSubdomain=mx)
 
 **Last Projects:**
